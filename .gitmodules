@@ -1,0 +1,3 @@
+[submodule "fgddemImporter"]
+	path = fgddemImporter
+	url = https://github.com/minorua/fgddemImporter.git
