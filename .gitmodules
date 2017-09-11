@@ -1,3 +1,6 @@
 [submodule "fgddemImporter"]
 	path = fgddemImporter
 	url = https://github.com/minorua/fgddemImporter.git
+[submodule "ogr2osm"]
+	path = ogr2osm
+	url = https://github.com/suke-blog/ogr2osm.git
