@@ -4,3 +4,6 @@
 [submodule "ogr2osm"]
 	path = ogr2osm
 	url = https://github.com/suke-blog/ogr2osm.git
+[submodule "mkgmap-config"]
+	path = mkgmap-config
+	url = https://github.com/suke-blog/mkgmap-config.git
